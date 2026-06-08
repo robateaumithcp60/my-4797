@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robateaumithcp60.github.io/my-4797/sitemap.xml
